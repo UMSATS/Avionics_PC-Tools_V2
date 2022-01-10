@@ -1,4 +1,5 @@
-# Graphical User Interface for configuration and telemetry of Avionics V3 flight controller
+# Avionics PC Tools V2022
+Graphical User Interface for configuration and telemetry of Avionics V3 flight controller
 
 ## Contents
 
@@ -28,7 +29,7 @@ Project pre-compiled binaries can be found here: [releases](https://github.com/C
 ### Windows cpp
 Building the cpp source requires the following:  
 OS: Win 10 x64  
-Build tools:  
+Build tools and dependencies:  
 - [cmake](#cmake)  
 - [mingw](#mingw)  
 - [Qt5](#Qt5) 
