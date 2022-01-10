@@ -1,3 +1,47 @@
+# Graphical User Interface for configuration and telemetry of Avionics V3 flight controller
+
+## Contents
+
+[Overview](##-Overview)
+- [diagram](###-Diagram)
+
+
+[Build cpp source](##-Build-cpp)
+- [windows](###-Windows-cpp)
+- [linux](###-Linux-cpp)
+
+[Build python source](##-Build-python)
+- [windows](###-Windows-python)
+- [linux](###-Linux-python)
+## Overview
+
+
+### Diagram
+
+
+## Build cpp
+### Windows cpp
+Building the cpp source requires the following:
+OS: Win 10 x64
+Build tools:
+[cmake](####-cmake)
+
+#### cmake
+
+
+### Linux cpp
+Dependencies
+
+## Build python
+### Windows python
+Dependencies
+
+### Linux python
+Dependencies
+
+
+
+
 In this README you will come to understand the basics of toolchain systems (including compilers, linkers and makefiles), building processes, difference in platforms.
 You will also learn how to setup Windows Environment similar to Linux and compile Avionics-PC-Tools project with CLion. I will also explain why it is better to be able to set 
 up CLion for development.
