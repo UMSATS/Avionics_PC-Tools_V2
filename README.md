@@ -34,8 +34,10 @@ Build tools:
 - [Qt5](#Qt5) 
 
 - [git and github desktop](#github-desktop) *optional*   
-- [Clion Setup](#CLion) *optional*  
+- [Command Prompt](####Command-Prompt)  
 - [VScode Setup](#VScode) *optional*  
+- [Clion Setup](#CLion) *optional*  
+ 
 
 
 
@@ -49,10 +51,15 @@ Build tools:
 #### Qt5
 
 
-#### CLion
+#### Command Prompt
 
 
 #### VScode
+
+#### CLion
+
+
+
 
 ### Linux cpp
 Dependencies
