@@ -1,0 +1,355 @@
+{
+	"BUILD_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/avionics-pc-tools-gui_autogen",
+	"CMAKE_BINARY_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+	"CMAKE_EXECUTABLE" : "F:/Programs/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeLists.txt",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeMinGWFindMake.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeSystem.cmake.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/3.22.1/CMakeSystem.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-Determine-CXX.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCXXInformation.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineRCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeRCCompiler.cmake.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/3.22.1/CMakeRCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeRCInformation.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-windres.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestRCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Charts/Qt5ChartsConfigVersion.cmake",
+		"F:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Charts/Qt5ChartsConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/dialogs/FlightDataFormatDialog.hpp",
+			"MU",
+			"LV4FHJKVKI/moc_FlightDataFormatDialog.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/DataFeeder.hpp",
+			"MU",
+			"6ZONRC2CXX/moc_DataFeeder.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/EmulationController.hpp",
+			"MU",
+			"6ZONRC2CXX/moc_EmulationController.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/EventDetector.h",
+			"MU",
+			"6ZONRC2CXX/moc_EventDetector.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/IRunnable.hpp",
+			"MU",
+			"6ZONRC2CXX/moc_IRunnable.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/utilities/ChartDialogUtils.h",
+			"MU",
+			"NZM4R6ESJQ/moc_ChartDialogUtils.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/utilities/QDirFinder.h",
+			"MU",
+			"NZM4R6ESJQ/moc_QDirFinder.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/utilities/common.h",
+			"MU",
+			"NZM4R6ESJQ/moc_common.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/DebuggingToolsWidget.h",
+			"MU",
+			"WIOE7JFF4J/moc_DebuggingToolsWidget.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/FlightEmulationWidget.h",
+			"MU",
+			"WIOE7JFF4J/moc_FlightEmulationWidget.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/OnBoardSensorsTestWidget.h",
+			"MU",
+			"WIOE7JFF4J/moc_OnBoardSensorsTestWidget.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/SerialPortSelectorWidget.h",
+			"MU",
+			"WIOE7JFF4J/moc_SerialPortSelectorWidget.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/TerminalWidget.h",
+			"MU",
+			"WIOE7JFF4J/moc_TerminalWidget.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/windows/MainWindow.h",
+			"MU",
+			"5XW7TMR3AE/moc_MainWindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/avionics-pc-tools-gui_autogen/include",
+	"MOC_COMPILATION_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/avionics-pc-tools-gui_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CHARTS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp",
+		"F:/Qt/5.15.2/mingw81_64/include",
+		"F:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"F:/Qt/5.15.2/mingw81_64/include/QtGui",
+		"F:/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"F:/Qt/5.15.2/mingw81_64/include/QtCore",
+		"F:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"F:/Qt/5.15.2/mingw81_64/include/QtCharts",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/avionics-pc-tools-gui_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/avionics-pc-tools-gui_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "F:/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "F:/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/avionics-pc-tools-gui_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/dialogs/FlightDataFormatDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/DataFeeder.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/EmulationController.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/emulation/EventDetector.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/utilities/ChartDialogUtils.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/utilities/QDirFinder.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/DebuggingToolsWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/FlightEmulationWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/OnBoardSensorsTestWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/SerialPortSelectorWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/TerminalWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/windows/MainWindow.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -53,7 +53,13 @@ Build tools and dependencies:
 
 
 #### Command Prompt
-
+1. open cmd
+2. navigate to the project folder
+```
+Drive:\PathTo\ProjectFolder> cmake CMakeLists.txt -G "MinGW Makefiles" -B build
+Drive:\PathTo\ProjectFolder> cmake --build build
+```
+3. The program is now a compiled exe in the build folder
 
 #### VScode
 

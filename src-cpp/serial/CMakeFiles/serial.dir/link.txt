@@ -1,0 +1,2 @@
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc libserial.a CMakeFiles/serial.dir/serial_autogen/mocs_compilation.cpp.obj CMakeFiles/serial.dir/c_serial.c.obj CMakeFiles/serial.dir/serial.cpp.obj
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ranlib.exe libserial.a

@@ -1,0 +1,163 @@
+{
+	"BUILD_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/serial_autogen",
+	"CMAKE_BINARY_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial",
+	"CMAKE_EXECUTABLE" : "F:/Programs/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeLists.txt",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/3.22.1/CMakeCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCInformation.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU-C.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Compiler/GNU.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCCompilerABI.c",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/3.22.1/CMakeCCompiler.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CheckIncludeFiles.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/GNUInstallDirs.cmake",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeConfigurableFile.in",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/CheckIncludeFiles/HAVE_LINUX_SERIAL.c",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/config.h.in"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/c_serial.h",
+			"MU",
+			"EWIEGA46WW/moc_c_serial.cpp",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/serial.h",
+			"MU",
+			"EWIEGA46WW/moc_serial.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/serial_autogen/include",
+	"MOC_COMPILATION_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/serial_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial",
+		"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"F:/Programs/CMake/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/serial_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeFiles/serial_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "F:/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "F:/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeFiles/serial_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/c_serial.c",
+			"MU",
+			null
+		],
+		[
+			"F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/serial.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

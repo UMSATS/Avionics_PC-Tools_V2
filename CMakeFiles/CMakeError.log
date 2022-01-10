@@ -1,0 +1,23 @@
+Determining if files linux/serial.h exist failed with the following output:
+Change Dir: F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f Makefile cmTC_90a28/fast && F:/Programs/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_90a28.dir\build.make CMakeFiles/cmTC_90a28.dir/build
+mingw32-make.exe[1]: Entering directory 'F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_90a28.dir/HAVE_LINUX_SERIAL.c.obj
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_90a28.dir\HAVE_LINUX_SERIAL.c.obj -c "F:\Uni Files\UMSATS\Avionics_PC-Tools_V2\CMakeFiles\CheckIncludeFiles\HAVE_LINUX_SERIAL.c"
+F:\Uni Files\UMSATS\Avionics_PC-Tools_V2\CMakeFiles\CheckIncludeFiles\HAVE_LINUX_SERIAL.c:2:10: fatal error: linux/serial.h: No such file or directory
+ #include <linux/serial.h>
+          ^~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_90a28.dir\build.make:77: CMakeFiles/cmTC_90a28.dir/HAVE_LINUX_SERIAL.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_90a28/fast] Error 2
+
+
+Source:
+/* */
+#include <linux/serial.h>
+
+
+int main(void){return 0;}
+

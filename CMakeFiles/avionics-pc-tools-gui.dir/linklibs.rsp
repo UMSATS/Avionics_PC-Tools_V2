@@ -1,0 +1,1 @@
+ src-cpp/serial/libserial.a F:/Qt/5.15.2/mingw81_64/lib/libQt5Charts.a src-cpp/widgets/graphics/cube/libcube.a F:/Qt/5.15.2/mingw81_64/lib/libQt5Widgets.a F:/Qt/5.15.2/mingw81_64/lib/libQt5Gui.a F:/Qt/5.15.2/mingw81_64/lib/libQt5Core.a src-cpp/widgets/graphics/cube/libquat_lib.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

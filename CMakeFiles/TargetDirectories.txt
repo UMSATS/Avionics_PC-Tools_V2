@@ -1,0 +1,14 @@
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/avionics-pc-tools-gui.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/edit_cache.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/rebuild_cache.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/CMakeFiles/avionics-pc-tools-gui_autogen.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeFiles/serial.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeFiles/edit_cache.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeFiles/rebuild_cache.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/serial/CMakeFiles/serial_autogen.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/graphics/cube/CMakeFiles/quat_lib.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/graphics/cube/CMakeFiles/cube.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/graphics/cube/CMakeFiles/edit_cache.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/graphics/cube/CMakeFiles/rebuild_cache.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/graphics/cube/CMakeFiles/quat_lib_autogen.dir
+F:/Uni Files/UMSATS/Avionics_PC-Tools_V2/src-cpp/widgets/graphics/cube/CMakeFiles/cube_autogen.dir

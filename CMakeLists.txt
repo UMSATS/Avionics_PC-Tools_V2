@@ -16,30 +16,30 @@ find_package(QT NAMES Qt5 COMPONENTS Widgets Charts REQUIRED)
 find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Widgets Charts REQUIRED)
 
 
-include_directories(${CMAKE_SOURCE_DIR}/src)
+include_directories(${CMAKE_SOURCE_DIR}/src-cpp)
 
 add_executable(${PROJECT_NAME}
-        src/main.cpp
-        src/windows/MainWindow.cpp
-        src/widgets/TerminalWidget.cpp
-        src/widgets/SerialPortSelectorWidget.cpp
-        src/widgets/OnBoardSensorsTestWidget.cpp
-        src/widgets/DebuggingToolsWidget.cpp
-        src/widgets/FlightEmulationWidget.cpp
-        src/utilities/QDirFinder.cpp
-        src/emulation/DataFeeder.cpp
-        src/emulation/IRunnable.hpp
-        src/emulation/EventDetector.cpp
-        src/emulation/EmulationController.cpp
-        src/dialogs/FlightDataFormatDialog.cpp
+        src-cpp/main.cpp
+        src-cpp/windows/MainWindow.cpp
+        src-cpp/widgets/TerminalWidget.cpp
+        src-cpp/widgets/SerialPortSelectorWidget.cpp
+        src-cpp/widgets/OnBoardSensorsTestWidget.cpp
+        src-cpp/widgets/DebuggingToolsWidget.cpp
+        src-cpp/widgets/FlightEmulationWidget.cpp
+        src-cpp/utilities/QDirFinder.cpp
+        src-cpp/emulation/DataFeeder.cpp
+        src-cpp/emulation/IRunnable.hpp
+        src-cpp/emulation/EventDetector.cpp
+        src-cpp/emulation/EmulationController.cpp
+        src-cpp/dialogs/FlightDataFormatDialog.cpp
 #        src/resources/resources.qrc
-        src/utilities/ChartDialogUtils.cpp
-        src/utilities/ChartDialogUtils.h
-        src/utilities/common.h
+        src-cpp/utilities/ChartDialogUtils.cpp
+        src-cpp/utilities/ChartDialogUtils.h
+        src-cpp/utilities/common.h
         )
 
 ## Sources
-add_subdirectory(src/serial)
-add_subdirectory(src/widgets/graphics/cube)
+add_subdirectory(src-cpp/serial)
+add_subdirectory(src-cpp/widgets/graphics/cube)
 target_link_libraries(${PROJECT_NAME} PUBLIC serial Qt${QT_VERSION_MAJOR}::Widgets Qt${QT_VERSION_MAJOR}::Charts cube)
 

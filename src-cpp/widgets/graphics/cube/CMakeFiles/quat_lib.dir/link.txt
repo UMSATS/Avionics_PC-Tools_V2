@@ -1,0 +1,2 @@
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc libquat_lib.a CMakeFiles/quat_lib.dir/quat_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/quat_lib.dir/math/sensor_processing_lib.cpp.obj CMakeFiles/quat_lib.dir/math/vector_3d.cpp.obj CMakeFiles/quat_lib.dir/math/quaternion.cpp.obj
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ranlib.exe libquat_lib.a

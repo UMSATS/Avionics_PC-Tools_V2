@@ -1,0 +1,2 @@
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc libcube.a CMakeFiles/cube.dir/cube_autogen/mocs_compilation.cpp.obj CMakeFiles/cube.dir/geometryengine.cpp.obj CMakeFiles/cube.dir/rotationcube.cpp.obj CMakeFiles/cube.dir/cube_autogen/EWIEGA46WW/qrc_shaders.cpp.obj CMakeFiles/cube.dir/cube_autogen/EWIEGA46WW/qrc_textures.cpp.obj
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ranlib.exe libcube.a

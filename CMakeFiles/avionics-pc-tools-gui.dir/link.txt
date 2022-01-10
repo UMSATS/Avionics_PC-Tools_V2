@@ -1,0 +1,3 @@
+F:\Programs\CMake\bin\cmake.exe -E rm -f CMakeFiles\avionics-pc-tools-gui.dir/objects.a
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc CMakeFiles\avionics-pc-tools-gui.dir/objects.a @CMakeFiles\avionics-pc-tools-gui.dir\objects1.rsp
+F:\Programs\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\avionics-pc-tools-gui.dir/objects.a -Wl,--no-whole-archive -o avionics-pc-tools-gui.exe -Wl,--out-implib,libavionics-pc-tools-gui.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\avionics-pc-tools-gui.dir\linklibs.rsp
