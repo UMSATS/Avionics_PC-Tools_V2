@@ -21,23 +21,22 @@
 
 
 
-## Precompiled binaries
-[releases](https://github.com/ChromaticPanic/Avionics_PC-Tools_V2/releases)
+### Precompiled binaries
+Project pre-compiled binaries can be found here: [releases](https://github.com/ChromaticPanic/Avionics_PC-Tools_V2/releases)
 
 ## Build cpp
 ### Windows cpp
 Building the cpp source requires the following:  
 OS: Win 10 x64  
 Build tools:  
-[git](#git) *optional*  
-[github desktop](#github-desktop) *optional*  
-[cmake](#cmake)  
-[mingw](#mingw)  
-[Qt5](#Qt5)  
-[Clion Setup](#CLion) *optional*  
-[VScode Setup](#VScode) *optional*  
+- [cmake](#cmake)  
+- [mingw](#mingw)  
+- [Qt5](#Qt5) 
 
-#### git
+- [git and github desktop](#github-desktop) *optional*   
+- [Clion Setup](#CLion) *optional*  
+- [VScode Setup](#VScode) *optional*  
+
 
 
 #### github desktop
