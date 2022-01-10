@@ -101,7 +101,7 @@ NOTE: The above folders/files can be manually selected through browsing your fil
 
 ### Upload, Run and Debug GUI Software
 
-1. Go to Run -> Run '''avionics-pc-tools-gui''' or press the run play button and the software will launch and appear similar to:
+1. Go to Run -> Run ''avionics-pc-tools-gui'' or press the run play button and the software will launch and appear similar to:
 
 <img src="imgs/gui_display.png" width="500">
 
