@@ -4,25 +4,26 @@ Graphical User Interface for configuration and telemetry of Avionics V3 flight c
 ## Contents
 
 [Overview](#Overview)
-- [diagram](#Diagram)
+- [Interface](#Interface)
+- [Pre-Compiled Binaries](#Pre-compiled-binaries)
 
 
-[Build cpp source](##Build-cpp)
-- [windows](###Windows-cpp)
-- [linux](###Linux-cpp)
+[Build cpp source](#Build-cpp)
+- [windows](#Windows-cpp)
+- [linux](#Linux-cpp)
 
-[Build python source](##Build-python)
-- [windows](###Windows-python)
-- [linux](###Linux-python)
+[Build python source](#Build-python)
+- [windows](#Windows-python)
+- [linux](#Linux-python)
 ## Overview
 
 
-### Diagram
+## Interface
 
 
 
 
-### Precompiled binaries
+### Pre-Compiled binaries
 Project pre-compiled binaries can be found here: [releases](https://github.com/ChromaticPanic/Avionics_PC-Tools_V2/releases)
 
 ## Build cpp
