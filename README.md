@@ -7,7 +7,7 @@ up CLion for development.
 
 ### Download WinRAR (needed for env setup)
 
-1. Go to -> https://www.win-rar.com/ then download and install WinRAR for Windows OS in order to extract QT .rar (zipped) file.
+1. Go to -> https://www.win-rar.com/ then download and install WinRAR for Windows OS in order to extract QT.rar (zipped) file.
 2. Ensure WinRAR was installed properly by opening the application through file system or type **WinRAR** into the taskbars search field.
 3. The application looks as follows:
 
@@ -24,10 +24,9 @@ up CLion for development.
 ### Setup The Development Environment
 *We need CLion(IDE), toolchains/MinGW/CMake*
 
-1. Download python 3.0 or higher wherever (probably default to `C:\Program Files\Python` folder).
-2. In the directory `C:\` create a new folder called `dev` and inside that create a folder called `opt` so you should have the directory `C:\dev\opt`.
-3. Install CLion into `C:\dev\opt\clion` and you should have no trouble setting up a free student version or free trial.
-4. Locate the `root` folder on the drive `Shared drives -> ROCKETS -> Current Design Cycle -> AVIONICS -> Flight Computer -> Files`.
+1. In the directory `C:\` create a new folder called `dev` and inside that create a folder called `opt` so you should have the directory `C:\dev\opt`.
+2. Install CLion into `C:\dev\opt\clion` and you should have no trouble setting up a free student version or free trial.
+3. Locate the `qt` folder on the drive `Shared drives -> ROCKETS -> Current Design Cycle -> AVIONICS -> Flight Computer -> Files`.
 5. In the directory `C:\` create a new folder called `root` and inside that create a folder called `opt` so you should have the directory `C:\root\opt`.
 6. Download, then extract with WinRAR and move the extracted `qt.rar` folder to `C:\root\opt` so you should have `C:\root\opt\qt`.
 7. Now that we have everything we need in place, we need environemnt variables so the executables can be seen system wide. In the Windows taskbar search for 
