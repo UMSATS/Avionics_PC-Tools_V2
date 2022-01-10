@@ -1,4 +1,4 @@
-In this README you will as well as come to understand the basics of toolchain systems (including compilers, linkers and makefiles), building processes, difference in platforms.
+In this README you will come to understand the basics of toolchain systems (including compilers, linkers and makefiles), building processes, difference in platforms.
 You will also learn how to setup Windows Environment similar to Linux and compile Avionics-PC-Tools project with CLion. I will also explain why it is better to be able to set 
 up CLion for development.
 
