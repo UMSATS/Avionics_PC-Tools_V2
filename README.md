@@ -2,22 +2,27 @@
 
 ## Contents
 
-[Overview](##-Overview)
-- [diagram](###-Diagram)
+[Overview](#Overview)
+- [diagram](#Diagram)
 
 
-[Build cpp source](##-Build-cpp)
-- [windows](###-Windows-cpp)
-- [linux](###-Linux-cpp)
+[Build cpp source](##Build-cpp)
+- [windows](###Windows-cpp)
+- [linux](###Linux-cpp)
 
-[Build python source](##-Build-python)
-- [windows](###-Windows-python)
-- [linux](###-Linux-python)
+[Build python source](##Build-python)
+- [windows](###Windows-python)
+- [linux](###Linux-python)
 ## Overview
 
 
 ### Diagram
 
+
+
+
+## Precompiled binaries
+[releases]
 
 ## Build cpp
 ### Windows cpp
