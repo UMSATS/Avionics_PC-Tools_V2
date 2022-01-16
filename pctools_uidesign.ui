@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="tabPosition">
+       <enum>QTabWidget::West</enum>
+      </property>
+      <property name="tabShape">
+       <enum>QTabWidget::Triangular</enum>
+      </property>
+      <property name="currentIndex">
+       <number>5</number>
+      </property>
+      <widget class="QWidget" name="tabSerial">
+       <attribute name="title">
+        <string>Connect</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tabSensors">
+       <attribute name="title">
+        <string>Sensors</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tabPlot">
+       <attribute name="title">
+        <string>Plot</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tabEmulate">
+       <attribute name="title">
+        <string>Emulate</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tabTerminal">
+       <attribute name="title">
+        <string>Terminal</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tabSetup">
+       <attribute name="title">
+        <string>Setup</string>
+       </attribute>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
